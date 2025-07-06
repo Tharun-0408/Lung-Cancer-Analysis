@@ -1,5 +1,5 @@
 # Lung-Cancer-Analysis
-This is a data analysis project using SQL and Power BI to explore patient survival trends by applying advanced querying techniques such as joins, CTEs and window functions and presenting insights through interactive dashboards
+This is a data analysis project using SQL and Power BI to explore patient survival trends by applying advanced querying techniques such as joins, CTEs and window functions on healthcare dataset and presenting insights through interactive dashboards.
 
 ---
 
@@ -12,10 +12,11 @@ This is a data analysis project using SQL and Power BI to explore patient surviv
 - CASE WHEN logic
 - Views and indexing
 - Basic query optimization
+- Data Modelling
 
 ---
 
-## Tools Used
+## Tools Used:
 
 - SQL Server Management Studio (SSMS)
 - Microsoft Excel (for data exploration)
